@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2025 by anonymous (http://jsbin.com/secogepico/2/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+<style id="jsbin-css">
+.start {
+  position:absolute;
+  color:darkslateblue;
+  background-color:snow;
+  font-family:georgia;
+  width:622px;
+  height:120px;
+  left:640px;
+  border:groove 6px;
+  border-color:crimson;
+  border-radius:20px;
+}
+.link {
+  position:absolute;
+  color:darkslateblue;
+  background-color:snow;
+  font-family:georgia;
+  width:622px;
+  height:120px;
+  left:640px;
+  bottom:483px;
+  border:groove 6px;
+  border-color:crimson;
+  border-radius:20px;
+} 
+.finish {
+  position:absolute;
+  color:darkslateblue;
+  background-color:snow;
+  font-family:georgia;
+  width:622px;
+  height:120px;
+  left:640px;
+  bottom:310px;
+  border:groove 6px;
+  border-color:crimson;
+  border-radius:20px;
+}
+</style>
+</head>
+<body>
+  Утримуй ліву клавішу Ctrl, використай скролер, на 80%. 
+<div class = "start">
+  <h1> <center> <em> Minecraft 1.8.8 в браузері Google Chrome. </em> </center> </h1>
+  </div>
+  <div class = "link">
+    <center> <h1> <a href="https://eaglercraft.com/mc/1.8.8/">https://eaglercraft.com/mc/1.8.8/</a><em>, від eagtek. </em> </h1> </center>
+  </div>
+  <div class = "finish">
+    <center> <h1> <em> Нікому не ділись цим посиланням, тримай його в секреті. </em> </h1> </center>
+  </div>
+  </body>
+</html>
